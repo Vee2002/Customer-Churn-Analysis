@@ -6,7 +6,6 @@ Syria Tel is facing customer attrition and has decided to delve into churn predi
 **DATA UNDERSTANDING**
 
 The data used has 3333 rows and 21 columns which are total day,evening and night charge, voice mail and itnenational plan, customer service calls, account number and others. Our target variable is churn.
-This 
 
 **MODELLING AND EVALUATION**
 
