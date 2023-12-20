@@ -13,7 +13,7 @@ This
 After data preparation techniques such as data cleaning, encoding, scaling and solving class imbalance, I went ahead to carry out prediction using the following models:
 LogIstic Regression, Decision Trees, Random Forest and XGBoost Classifier.
 Focusing on recall and f1-score, the above models had the following results:
-                        Recall  F1-score
+                        Recall and  F1-score
 Logistic Regresssion    78%     52%
 Decision Trees          71%     69%
 Random Forest           75%     78%
@@ -26,7 +26,7 @@ ROC Curve Analysis also showed that XGBoost was the best classifier as it had an
 **HYPERPARAMETER TUNING**
 
 On performing hyperparameter tuning on Decision Trees, Random Forest and XGBoost so as to boost performance, the following were the results:
-                       Recall  F1-score
+                       Recall and  F1-score
 Decision Trees          73%     70%
 Random Forest           77%     80%
 XGBoost Classifier      78%     85%
